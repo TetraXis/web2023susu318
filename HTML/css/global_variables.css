@@ -1,0 +1,19 @@
+:root {
+	--header-height: 104px;
+	--main-background-color: #F6F7F8;
+	--main-accent-color: #336FEE;
+
+	--tile-background-color: #FFFFFF;
+	--tile-background-color2: #333333;
+
+	--button-color: #FFDD2D;
+	--button-color-hover: #FCC521;
+	--button-color-active: #FAB619;
+
+	--font-color-hover: rgba(0, 0, 0, 0.80);
+	--font-color-transparent: rgba(0, 0, 0, 0.54);
+	--font-size-1: 44px;
+	--font-size-2: 24px;
+	--font-size-3: 15px;
+	--font-size-4: 13px;
+}
